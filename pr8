@@ -1,0 +1,95 @@
+#1
+def max_and_min(numbers):
+    print("Максимум:", max(numbers))
+    print("Мінімум:", min(numbers))
+
+numbers = [4, 5, 6, 90, 23, -23]
+max_and_min(numbers)
+
+#2
+def grade_system(numbers):
+    journal = {'A': [], 'B': [], 'C': [], 'D': [], 'F': []}
+    for n in numbers:
+        if 90 <= n <= 100:
+            journal['A'].append(n)
+        elif 80 <= n <= 89:
+            journal['B'].append(n)
+        elif 70 <= n <= 79:
+            journal['C'].append(n)
+        elif 60 <= n <= 69:
+            journal['D'].append(n)
+        else:
+            journal['F'].append(n)
+    return journal
+numbers = [60, 80, 64, 45, 35, 87, 90, 95, 91, 64, 78]
+print(grade_system(numbers))
+
+#3
+def is_leap(year):
+    return (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+print(is_leap(2023))
+print(is_leap(2020))
+
+#4
+def swap_dict(d):
+    new_dict = {}
+    for key, value in d.items():
+        new_dict[value] = key
+        return new_dict
+test = {
+    "red": 1,
+    "green": 2,
+    "blue": 3,
+    "yellow": 4
+}
+print(swap_dict(test))
+
+#5
+def pol_calc(a, b, oper):
+    if oper == "+":
+        return a + b
+    elif oper == "-":
+        return a - b
+    elif oper == "*":
+        return a * b
+    elif oper == "/":
+        return a / b
+    elif oper == "**":
+        return a ** b
+while True:
+    a = float(input("Перше число: "))
+    b = float(input("Друге число: "))
+    oper = input("Операція (+, -, *, /, **): ")
+    print("Результат:", pol_calc(a, b, oper))
+    cont = input("Продовжити? (так/ні): ")
+    if cont.lower() == "ні":
+        break
+#6
+def password_checker():
+    spec = "%№!@#$^&*"
+    while True:
+        pwd = input("Введіть пароль: ")
+        if len(pwd) < 8:
+            print("Мінімум 8 символів.")
+            continue
+        if not any(c.isupper() for c in pwd):
+            print("Має бути велика літера.")
+            continue
+        if not any(c.islower() for c in pwd):
+            print("Має бути мала літера.")
+            continue
+        if not any(c in spec for c in pwd):
+            print("Має бути спеціальний символ.")
+            continue
+        print("Перевірку успішно пройдено")
+        break
+password_checker()
+
+#7
+def average(numbers):
+    clean = [int(n) for n in numbers]
+    return sum(clean) / len(clean)
+
+numbers = [4, 5, 6, 7, 8, '9', -23, 10]
+
+print(average(numbers))
