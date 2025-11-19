@@ -1,0 +1,65 @@
+#1
+about_me = {
+    "Ім'я": "Юлія",
+    "Прізвище": "Джус",
+    "Вік": 17,
+    "Дата народження": "06.05.2008",
+    "Місце проживання": "Львів"
+}
+
+key_list = list(about_me.keys())
+value_list = list(about_me.values())
+item_list = list(about_me.items())
+print(f"Словник about_me: {about_me}")
+print(f"Список ключів (key_list): {key_list}")
+print(f"Список значень (value_list): {value_list}")
+print(f"Список пар ключ-значення (item_list): {item_list}")
+
+#2
+prices = {'apple': 50, 'banana': 20, 'cherry': 75}
+max_product = max(prices, key=prices.get)
+print(max_product)
+
+#3
+students = {
+    'Аліна': 2,
+    'Юля': 5,
+    'Марійка': 4,
+    'Олександр': 2,
+    'Микола': 4
+}
+average = sum(students.values()) / len(students)
+print(average)
+
+#4
+words = {
+    "apple": "яблуко",
+    "cow": "корова",
+    "orange": "апельсин",
+    "hello": "привіт",
+    "Monday": "Понеділок",
+    "dog": "пес"
+}
+word = input("Введіть слово: ")
+if word in words:
+    print(words[word])
+else:
+    print("unknown")
+
+#5
+user = {
+    "login": "admin",
+    "password": "1234587"
+}
+if "email" in user:
+    print(user["email"])
+else:
+    user["email"] = "admin@gmail.com"
+    print("Ключ email додано:", user["email"])
+
+#6
+user = {"name": "Petro", "age": "12"}
+user["name"] = "Anna"
+user["age"] = 21
+user["city"] = "Kyiv"
+print(user)
