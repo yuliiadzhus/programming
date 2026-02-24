@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd759bfe-da9f-4c80-b470-da58d085921f" name="Changes" comment="pr1">
-      <change afterPath="$PROJECT_DIR$/семестр 2/Pr2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/explanation1" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/explanation1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/weather/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/weather/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/weather/humidity.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/weather/humidity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/Task1/weather/temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/Task1/weather/temperature.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task2/explanation2" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task2/explanation2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task2/string_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task2/string_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task3/explanation3" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task3/explanation3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task3/logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task3/logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/семетр 2/Pr1/task3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/семестр 2/Pr1/task3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
