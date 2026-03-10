@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de9895bd-8414-4c8d-b279-cfd7ae0d2b81" name="Changes" comment="" />
+    <list default="true" id="de9895bd-8414-4c8d-b279-cfd7ae0d2b81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 1/pr8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/explanation1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/weather/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/weather/humidity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/Task1/weather/temperature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task2/explanation2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task2/string_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task3/explanation3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task3/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Pr1/task3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/explanation1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/weather/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/weather/humidity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/Task1/weather/temperature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task2/explanation2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task2/string_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task3/explanation3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task3/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr1/task3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task4/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr2/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task 4/broken.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task1/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task2/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task3/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/основи програмування/семестр 2/Pr3/task3/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,22 +82,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.logic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pr8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/університет/основи програмування&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.logic.executor": "Run",
+    "Python.pr1.executor": "Run",
+    "Python.pr2.executor": "Run",
+    "Python.pr3.executor": "Run",
+    "Python.pr4.executor": "Run",
+    "Python.pr5.executor": "Run",
+    "Python.pr6.executor": "Run",
+    "Python.pr8.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/університет/основи програмування"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\університет\основи програмування" />
