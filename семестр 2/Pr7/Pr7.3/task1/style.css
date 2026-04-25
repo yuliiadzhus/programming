@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background: #f4f9f4;
+}
+
+.nature-gallery {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #2e4a22;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.leaf { border-radius: 0 100% 0 100%; }
+.drop { border-radius: 50% 50% 50% 10% / 80% 80% 20% 20%; }
+.circle { border-radius: 50%; }
+.stone { border-radius: 40% 60% 70% 30% / 50% 30% 70% 50%; }
